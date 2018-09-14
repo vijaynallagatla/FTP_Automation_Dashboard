@@ -1,0 +1,171 @@
+Canonical name, Display name, Can encode, Aliases
+Big5, Big5, true, csBig5
+Big5-HKSCS, Big5-HKSCS, true, big5-hkscs:unicode3.0, Big5_HKSCS, big5-hkscs, big5hkscs, big5hk
+COMPOUND_TEXT, COMPOUND_TEXT, true
+EUC-JP, EUC-JP, true, eucjis, Extended_UNIX_Code_Packed_Format_for_Japanese, x-eucjp, eucjp, csEUCPkdFmtjapanese, euc_jp, x-euc-jp
+EUC-KR, EUC-KR, true, 5601, ksc5601-1987, ksc5601_1987, euckr, ksc5601, ksc_5601, ks_c_5601-1987, euc_kr, csEUCKR
+GB18030, GB18030, true, gb18030-2000
+GB2312, GB2312, true, euc-cn, x-EUC-CN, gb2312-1980, gb2312, gb2312-80, euccn, EUC_CN
+GBK, GBK, true, CP936, windows-936
+IBM-Thai, IBM-Thai, true, 838, cp838, ibm838, ibm-838
+IBM00858, IBM00858, true, cp858, ccsid00858, 858, cp00858
+IBM01140, IBM01140, true, ccsid01140, cp01140, 1140, cp1140
+IBM01141, IBM01141, true, cp1141, ccsid01141, cp01141, 1141
+IBM01142, IBM01142, true, cp01142, cp1142, 1142, ccsid01142
+IBM01143, IBM01143, true, cp01143, 1143, ccsid01143, cp1143
+IBM01144, IBM01144, true, cp01144, cp1144, ccsid01144, 1144
+IBM01145, IBM01145, true, cp1145, cp01145, ccsid01145, 1145
+IBM01146, IBM01146, true, ccsid01146, cp01146, cp1146, 1146
+IBM01147, IBM01147, true, ccsid01147, cp1147, 1147, cp01147
+IBM01148, IBM01148, true, cp1148, ccsid01148, 1148, cp01148
+IBM01149, IBM01149, true, cp1149, cp01149, ccsid01149, 1149
+IBM037, IBM037, true, cs-ebcdic-cp-nl, 037, cp037, ebcdic-cp-nl, ibm-37, ebcdic-cp-wt, cs-ebcdic-cp-us, ebcdic-cp-ca, cs-ebcdic-cp-wt, csIBM037, ibm-037, cs-ebcdic-cp-ca, cpibm37, ibm037, ebcdic-cp-us
+IBM1026, IBM1026, true, cp1026, ibm-1026, 1026, ibm1026
+IBM1047, IBM1047, true, cp1047, 1047, ibm-1047
+IBM273, IBM273, true, ibm-273, ibm273, cp273, 273
+IBM277, IBM277, true, cp277, 277, ibm-277, ibm277
+IBM278, IBM278, true, cp278, ebcdic-cp-se, 278, ibm278, ebcdic-sv, ibm-278, csIBM278
+IBM280, IBM280, true, 280, ibm-280, cp280, ibm280
+IBM284, IBM284, true, cpibm284, csIBM284, ibm284, cp284, 284, ibm-284
+IBM285, IBM285, true, ibm285, ebcdic-cp-gb, cpibm285, cp285, csIBM285, ebcdic-gb, 285, ibm-285
+IBM297, IBM297, true, cp297, ibm297, 297, cpibm297, ebcdic-cp-fr, ibm-297, csIBM297
+IBM420, IBM420, true, ibm420, cp420, 420, ibm-420, csIBM420, ebcdic-cp-ar1
+IBM424, IBM424, true, csIBM424, ibm-424, ibm424, cp424, ebcdic-cp-he, 424
+IBM437, IBM437, true, ibm-437, windows-437, cspc8codepage437, 437, ibm437, cp437
+IBM500, IBM500, true, ibm-500, ebcdic-cp-bh, cp500, csIBM500, ibm500, ebcdic-cp-ch, 500
+IBM775, IBM775, true, ibm-775, cp775, ibm775, 775
+IBM850, IBM850, true, ibm-850, cp850, 850, cspc850multilingual, ibm850
+IBM852, IBM852, true, ibm852, csPCp852, 852, ibm-852, cp852
+IBM855, IBM855, true, cspcp855, 855, ibm855, ibm-855, cp855
+IBM857, IBM857, true, csIBM857, 857, ibm-857, cp857, ibm857
+IBM860, IBM860, true, 860, cp860, ibm-860, csIBM860, ibm860
+IBM861, IBM861, true, 861, cp-is, ibm-861, cp861, csIBM861, ibm861
+IBM862, IBM862, true, ibm-862, ibm862, csIBM862, cp862, cspc862latinhebrew, 862
+IBM863, IBM863, true, ibm863, csIBM863, cp863, 863, ibm-863
+IBM864, IBM864, true, csIBM864, ibm864, 864, cp864, ibm-864
+IBM865, IBM865, true, csIBM865, ibm865, 865, ibm-865, cp865
+IBM866, IBM866, true, 866, ibm-866, ibm866, csIBM866, cp866
+IBM868, IBM868, true, 868, ibm-868, cp868, csIBM868, cp-ar, ibm868
+IBM869, IBM869, true, 869, ibm-869, cp869, csIBM869, cp-gr, ibm869
+IBM870, IBM870, true, ibm-870, ebcdic-cp-roece, ebcdic-cp-yu, ibm870, csIBM870, cp870, 870
+IBM871, IBM871, true, ibm-871, 871, ebcdic-cp-is, cp871, csIBM871, ibm871
+IBM918, IBM918, true, cp918, ebcdic-cp-ar2, ibm-918, 918
+ISO-2022-CN, ISO-2022-CN, false, ISO2022CN, csISO2022CN
+ISO-2022-JP, ISO-2022-JP, true, jis_encoding, csjisencoding, jis, iso2022jp, csISO2022JP
+ISO-2022-JP-2, ISO-2022-JP-2, true, csISO2022JP2, iso2022jp2
+ISO-2022-KR, ISO-2022-KR, true, csISO2022KR, ISO2022KR
+ISO-8859-1, ISO-8859-1, true, csISOLatin1, IBM-819, iso-ir-100, 8859_1, ISO_8859-1, l1, ISO8859-1, ISO_8859_1, cp819, ISO8859_1, latin1, ISO_8859-1:1987, 819, IBM819
+ISO-8859-13, ISO-8859-13, true, 8859_13, iso8859_13, iso_8859-13, ISO8859-13
+ISO-8859-15, ISO-8859-15, true, IBM923, 8859_15, ISO_8859-15, ISO-8859-15, L9, ISO8859-15, ISO8859_15_FDIS, 923, LATIN0, csISOlatin9, LATIN9, csISOlatin0, IBM-923, ISO8859_15, cp923
+ISO-8859-2, ISO-8859-2, true, iso-ir-101, csISOLatin2, ibm-912, 8859_2, l2, ISO_8859-2, ibm912, 912, ISO8859-2, latin2, iso8859_2, ISO_8859-2:1987, cp912
+ISO-8859-3, ISO-8859-3, true, ibm-913, csISOLatin3, iso-ir-109, l3, 8859_3, ibm913, ISO_8859-3, ISO8859-3, 913, latin3, iso8859_3, ISO_8859-3:1988, cp913
+ISO-8859-4, ISO-8859-4, true, iso-ir-110, iso8859-4, ibm914, ibm-914, l4, csISOLatin4, 914, 8859_4, latin4, ISO_8859-4, ISO_8859-4:1988, iso8859_4, cp914
+ISO-8859-5, ISO-8859-5, true, cp915, ISO8859-5, ibm915, ISO_8859-5:1988, ibm-915, 8859_5, 915, cyrillic, iso8859_5, ISO_8859-5, iso-ir-144, csISOLatinCyrillic
+ISO-8859-6, ISO-8859-6, true, arabic, ibm1089, iso8859_6, iso-ir-127, 8859_6, cp1089, ECMA-114, ISO_8859-6, csISOLatinArabic, ibm-1089, 1089, ISO8859-6, ASMO-708, ISO_8859-6:1987
+ISO-8859-7, ISO-8859-7, true, iso8859-7, sun_eu_greek, csISOLatinGreek, 813, ISO_8859-7, ISO_8859-7:1987, ibm-813, greek, greek8, iso8859_7, ECMA-118, iso-ir-126, 8859_7, cp813, ibm813, ELOT_928
+ISO-8859-8, ISO-8859-8, true, ibm916, cp916, csISOLatinHebrew, ISO_8859-8, ISO8859-8, ibm-916, iso8859_8, hebrew, 916, iso-ir-138, ISO_8859-8:1988, 8859_8
+ISO-8859-9, ISO-8859-9, true, ISO_8859-9, 920, iso8859_9, csISOLatin5, l5, 8859_9, latin5, ibm920, iso-ir-148, ISO_8859-9:1989, ISO8859-9, cp920, ibm-920
+JIS_X0201, JIS_X0201, true, JIS0201, JIS_X0201, X0201, csHalfWidthKatakana
+JIS_X0212-1990, JIS_X0212-1990, true, csISO159JISX02121990, x0212, jis_x0212-1990, iso-ir-159, JIS0212
+KOI8-R, KOI8-R, true, cskoi8r, koi8_r, koi8
+KOI8-U, KOI8-U, true, koi8_u
+Shift_JIS, Shift_JIS, true, x-sjis, shift_jis, sjis, ms_kanji, shift-jis, csShiftJIS
+TIS-620, TIS-620, true, tis620.2533, tis620
+US-ASCII, US-ASCII, true, cp367, ascii7, ISO646-US, 646, csASCII, us, iso_646.irv:1983, ISO_646.irv:1991, IBM367, ASCII, default, ANSI_X3.4-1986, ANSI_X3.4-1968, iso-ir-6
+UTF-16, UTF-16, true, utf16, UTF_16, UnicodeBig, unicode
+UTF-16BE, UTF-16BE, true, X-UTF-16BE, UTF_16BE, ISO-10646-UCS-2, UnicodeBigUnmarked
+UTF-16LE, UTF-16LE, true, UnicodeLittleUnmarked, UTF_16LE, X-UTF-16LE
+UTF-32, UTF-32, true, UTF_32, UTF32
+UTF-32BE, UTF-32BE, true, X-UTF-32BE, UTF_32BE
+UTF-32LE, UTF-32LE, true, X-UTF-32LE, UTF_32LE
+UTF-8, UTF-8, true, UTF8, unicode-1-1-utf-8
+windows-1250, windows-1250, true, cp1250, cp5346
+windows-1251, windows-1251, true, ansi-1251, cp5347, cp1251
+windows-1252, windows-1252, true, cp1252, cp5348
+windows-1253, windows-1253, true, cp1253, cp5349
+windows-1254, windows-1254, true, cp1254, cp5350
+windows-1255, windows-1255, true, cp1255
+windows-1256, windows-1256, true, cp1256
+windows-1257, windows-1257, true, cp1257, cp5353
+windows-1258, windows-1258, true, cp1258
+windows-31j, windows-31j, true, csWindows31J, windows-932, MS932
+x-Big5-Solaris, x-Big5-Solaris, true, Big5_Solaris
+x-euc-jp-linux, x-euc-jp-linux, true, euc-jp-linux, euc_jp_linux
+x-EUC-TW, x-EUC-TW, true, euc_tw, EUC-TW, cns11643, euctw
+x-eucJP-Open, x-eucJP-Open, true, EUC_JP_Solaris, eucJP-open
+x-IBM1006, x-IBM1006, true, cp1006, ibm-1006, ibm1006, 1006
+x-IBM1025, x-IBM1025, true, cp1025, ibm-1025, 1025, ibm1025
+x-IBM1046, x-IBM1046, true, ibm-1046, cp1046, ibm1046, 1046
+x-IBM1097, x-IBM1097, true, cp1097, 1097, ibm-1097, ibm1097
+x-IBM1098, x-IBM1098, true, ibm-1098, cp1098, ibm1098, 1098
+x-IBM1112, x-IBM1112, true, ibm-1112, 1112, ibm1112, cp1112
+x-IBM1122, x-IBM1122, true, cp1122, ibm-1122, 1122, ibm1122
+x-IBM1123, x-IBM1123, true, cp1123, ibm-1123, 1123, ibm1123
+x-IBM1124, x-IBM1124, true, cp1124, ibm-1124, 1124, ibm1124
+x-IBM1381, x-IBM1381, true, ibm1381, cp1381, ibm-1381, 1381
+x-IBM1383, x-IBM1383, true, cp1383, 1383, ibm1383, ibm-1383
+x-IBM33722, x-IBM33722, true, ibm33722, 33722, ibm-33722_vascii_vpua, ibm-5050, ibm-33722, cp33722
+x-IBM737, x-IBM737, true, cp737, ibm-737, 737, ibm737
+x-IBM833, x-IBM833, true, ibm-833, ibm833, cp833
+x-IBM834, x-IBM834, true, ibm834, ibm-834, cp834
+x-IBM856, x-IBM856, true, 856, cp856, ibm-856, ibm856
+x-IBM874, x-IBM874, true, cp874, ibm874, 874, ibm-874
+x-IBM875, x-IBM875, true, ibm875, 875, cp875, ibm-875
+x-IBM921, x-IBM921, true, cp921, ibm921, ibm-921, 921
+x-IBM922, x-IBM922, true, ibm922, ibm-922, cp922, 922
+x-IBM930, x-IBM930, true, cp930, ibm930, ibm-930, 930
+x-IBM933, x-IBM933, true, cp933, 933, ibm933, ibm-933
+x-IBM935, x-IBM935, true, ibm935, cp935, 935, ibm-935
+x-IBM937, x-IBM937, true, ibm-937, cp937, 937, ibm937
+x-IBM939, x-IBM939, true, ibm-939, ibm939, cp939, 939
+x-IBM942, x-IBM942, true, ibm-942, ibm942, cp942, 942
+x-IBM942C, x-IBM942C, true, 942C, ibm942C, cp942C, ibm-942C
+x-IBM943, x-IBM943, true, 943, ibm-943, cp943, ibm943
+x-IBM943C, x-IBM943C, true, ibm-943C, 943C, cp943C, ibm943C
+x-IBM948, x-IBM948, true, ibm948, ibm-948, cp948, 948
+x-IBM949, x-IBM949, true, ibm949, ibm-949, 949, cp949
+x-IBM949C, x-IBM949C, true, cp949C, 949C, ibm-949C, ibm949C
+x-IBM950, x-IBM950, true, 950, ibm950, cp950, ibm-950
+x-IBM964, x-IBM964, true, 964, cp964, ibm-964, ibm964
+x-IBM970, x-IBM970, true, 970, ibm-970, ibm970, cp970, ibm-eucKR
+x-ISCII91, x-ISCII91, true, iso-ir-153, ST_SEV_358-88, ISCII91, iscii, csISO153GOST1976874
+x-ISO-2022-CN-CNS, x-ISO-2022-CN-CNS, true, ISO-2022-CN-CNS, ISO2022CN_CNS
+x-ISO-2022-CN-GB, x-ISO-2022-CN-GB, true, ISO-2022-CN-GB, ISO2022CN_GB
+x-iso-8859-11, x-iso-8859-11, true, iso-8859-11, iso8859_11
+x-JIS0208, x-JIS0208, true, JIS_X0208-1983, x0208, JIS0208, JIS_C6226-1983, iso-ir-87, csISO87JISX0208
+x-JISAutoDetect, x-JISAutoDetect, false, JISAutoDetect
+x-Johab, x-Johab, true, ksc5601_1992, ms1361, ksc5601-1992, johab
+x-MacArabic, x-MacArabic, true, MacArabic
+x-MacCentralEurope, x-MacCentralEurope, true, MacCentralEurope
+x-MacCroatian, x-MacCroatian, true, MacCroatian
+x-MacCyrillic, x-MacCyrillic, true, MacCyrillic
+x-MacDingbat, x-MacDingbat, true, MacDingbat
+x-MacGreek, x-MacGreek, true, MacGreek
+x-MacHebrew, x-MacHebrew, true, MacHebrew
+x-MacIceland, x-MacIceland, true, MacIceland
+x-MacRoman, x-MacRoman, true, MacRoman
+x-MacRomania, x-MacRomania, true, MacRomania
+x-MacSymbol, x-MacSymbol, true, MacSymbol
+x-MacThai, x-MacThai, true, MacThai
+x-MacTurkish, x-MacTurkish, true, MacTurkish
+x-MacUkraine, x-MacUkraine, true, MacUkraine
+x-MS932_0213, x-MS932_0213, true
+x-MS950-HKSCS, x-MS950-HKSCS, true, MS950_HKSCS
+x-mswin-936, x-mswin-936, true, ms936, ms_936
+x-PCK, x-PCK, true, pck
+x-SJIS_0213, x-SJIS_0213, true
+x-UTF-16LE-BOM, x-UTF-16LE-BOM, true, UnicodeLittle
+X-UTF-32BE-BOM, X-UTF-32BE-BOM, true, UTF_32BE_BOM, UTF-32BE-BOM
+X-UTF-32LE-BOM, X-UTF-32LE-BOM, true, UTF_32LE_BOM, UTF-32LE-BOM
+x-windows-50220, x-windows-50220, true, cp50220, ms50220
+x-windows-50221, x-windows-50221, true, ms50221, cp50221
+x-windows-874, x-windows-874, true, ms-874, ms874, windows-874
+x-windows-949, x-windows-949, true, windows-949, ms_949, windows949, ms949
+x-windows-950, x-windows-950, true, ms950, windows-950
+x-windows-iso2022jp, x-windows-iso2022jp, true, windows-iso2022jp
+UTF-8
+ 82
+e9 233
+82 130
+289  Byte Calc B8 51
+12
